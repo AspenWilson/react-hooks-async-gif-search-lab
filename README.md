@@ -2,7 +2,7 @@
 
 ## Instructions
 
-You're going to be building out a Gif search using the Giphy API. In this lab,
+<!-- You're going to be building out a Gif search using the Giphy API. In this lab,
 there are no tests to pass. Rather, your task is to create a working app in your
 browser using the instructions below. When finished, you should have an
 application that can take in a user's input, fetch JSON data from the Giphy API,
@@ -60,7 +60,7 @@ particular image.
       }
     }
     ]
-```
+``` -->
 
 **Note:** Notice there are many URL keys on each image object. The first `url`
 key, just below `type`, `id`, and `slug`, will bring you to the images page on
